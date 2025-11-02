@@ -1,0 +1,1 @@
+# odoo 18 Modul Development from Server Framework 101 
